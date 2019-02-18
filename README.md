@@ -1,2 +1,1 @@
-Using Web Services
-www.py4e.com/code3
+View json data about user colected from twiiter
